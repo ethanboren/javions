@@ -1,0 +1,7 @@
+.idea/
+*.iml
+out/
+.DS_Store
+tile-cache/
+resources/samples_2023*.bin
+.javafx/
